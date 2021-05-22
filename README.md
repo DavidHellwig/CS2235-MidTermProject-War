@@ -1,5 +1,5 @@
 # CS2235-MidTermProject-fixed-
-The other mid project repo had various errors due to it being outdated compared to what was turned in
+This repo is the final graded project that was submitted for CS225 Data Structures and Algorithms (In Java)
 
 1. Create a program to simulate the card game War. (If you don’t know 
 the rules to War, a video link will be posted on Moodle to explain 
