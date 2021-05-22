@@ -1,4 +1,4 @@
-# CS2235-MidTermProject-War
+# CS2235-MidTermProject-War-
 
 
 1. Create a program to simulate the card game War. (If you don’t know 
